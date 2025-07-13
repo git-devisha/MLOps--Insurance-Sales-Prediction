@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/python-projects/mlops/MLOps--Insurance-Sales-Prediction/insurance_sale/mlruns/951155976031938292/902c3a9c03334685a3a6e81759a4c3d3/artifacts
+end_time: 1752423563612
+entry_point_name: ''
+experiment_id: '951155976031938292'
+lifecycle_stage: active
+run_id: 902c3a9c03334685a3a6e81759a4c3d3
+run_name: clumsy-mule-491
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752423563590
+status: 4
+tags: []
+user_id: Devisha

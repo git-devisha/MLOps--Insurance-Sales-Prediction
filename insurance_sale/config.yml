@@ -1,3 +1,32 @@
+# data: 
+#   train_path: insurance_sale/data/train.csv
+#   test_path: insurance_sale/data/test.csv
+
+# train:
+#   test_size: 0.2
+#   random_state: 42
+#   shuffle: true
+
+# model:
+#   name: DecisionTreeClassifier
+#   params:
+#     criterion: entropy
+#     max_depth: null
+#   store_path: models/
+
+#   # name: GradientBoostingClassifier
+#   # params:
+#   #   max_depth: null
+#   #   n_estimators: 10
+#   # store_path: models/
+
+#   # name: RandomForestClassifier
+#   # params:
+#   #   n_estimators: 50
+#   #   max_depth: 10
+#   #   random_state: 42
+#   # store_path: models/
+
 data: 
   train_path: insurance_sale/data/train.csv
   test_path: insurance_sale/data/test.csv
@@ -8,21 +37,8 @@ train:
   shuffle: true
 
 model:
-  name: DecisionTreeClassifier
+  name: DecisionTreeClassifier  # Change this to select model
   params:
     criterion: entropy
-    max_depth: null
+    max_depth: null  # 'null' is fine in YAML, will load as None in Python
   store_path: models/
-
-  # name: GradientBoostingClassifier
-  # params:
-  #   max_depth: null
-  #   n_estimators: 10
-  # store_path: models/
-
-  # name: RandomForestClassifier
-  # params:
-  #   n_estimators: 50
-  #   max_depth: 10
-  #   random_state: 42
-  # store_path: models/

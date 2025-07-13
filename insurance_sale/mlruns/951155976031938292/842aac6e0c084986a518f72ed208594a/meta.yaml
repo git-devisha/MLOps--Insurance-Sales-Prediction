@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/python-projects/mlops/MLOps--Insurance-Sales-Prediction/insurance_sale/mlruns/951155976031938292/842aac6e0c084986a518f72ed208594a/artifacts
+end_time: 1752419524799
+entry_point_name: ''
+experiment_id: '951155976031938292'
+lifecycle_stage: active
+run_id: 842aac6e0c084986a518f72ed208594a
+run_name: thoughtful-vole-511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752419524789
+status: 4
+tags: []
+user_id: Devisha
