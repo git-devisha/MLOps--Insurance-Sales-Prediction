@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/python-projects/mlops/MLOps--Insurance-Sales-Prediction/insurance_sale/mlruns/389165372678284579/bcf5c6b02f0e45e1b02915b77b7ae7f3/artifacts
+end_time: 1752408753265
+entry_point_name: ''
+experiment_id: '389165372678284579'
+lifecycle_stage: active
+run_id: bcf5c6b02f0e45e1b02915b77b7ae7f3
+run_name: shivering-snipe-296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752408753246
+status: 3
+tags: []
+user_id: Devisha

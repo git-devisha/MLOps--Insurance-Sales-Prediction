@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/python-projects/mlops/MLOps--Insurance-Sales-Prediction/insurance_sale/mlruns/389165372678284579/1257c42ac9a04ef993f94e824e937547/artifacts
+end_time: 1752413029429
+entry_point_name: ''
+experiment_id: '389165372678284579'
+lifecycle_stage: active
+run_id: 1257c42ac9a04ef993f94e824e937547
+run_name: gifted-squid-147
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752413029408
+status: 3
+tags: []
+user_id: Devisha

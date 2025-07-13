@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/python-projects/mlops/MLOps--Insurance-Sales-Prediction/insurance_sale/mlruns/389165372678284579/a19371a7b77a4808ae1dea001b0f26ef/artifacts
+end_time: 1752408470250
+entry_point_name: ''
+experiment_id: '389165372678284579'
+lifecycle_stage: active
+run_id: a19371a7b77a4808ae1dea001b0f26ef
+run_name: masked-yak-546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752408470236
+status: 3
+tags: []
+user_id: Devisha

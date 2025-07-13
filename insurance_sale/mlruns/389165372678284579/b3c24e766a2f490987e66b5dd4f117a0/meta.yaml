@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/python-projects/mlops/MLOps--Insurance-Sales-Prediction/insurance_sale/mlruns/389165372678284579/b3c24e766a2f490987e66b5dd4f117a0/artifacts
+end_time: 1752412864325
+entry_point_name: ''
+experiment_id: '389165372678284579'
+lifecycle_stage: active
+run_id: b3c24e766a2f490987e66b5dd4f117a0
+run_name: indecisive-skunk-396
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752412864296
+status: 3
+tags: []
+user_id: Devisha

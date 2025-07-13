@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/python-projects/mlops/MLOps--Insurance-Sales-Prediction/insurance_sale/mlruns/389165372678284579/82cac1b7b5dc47728a2fe217b6ee515c/artifacts
+end_time: 1752408421136
+entry_point_name: ''
+experiment_id: '389165372678284579'
+lifecycle_stage: active
+run_id: 82cac1b7b5dc47728a2fe217b6ee515c
+run_name: adorable-yak-172
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752408421109
+status: 4
+tags: []
+user_id: Devisha

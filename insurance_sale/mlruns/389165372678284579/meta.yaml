@@ -1,0 +1,6 @@
+artifact_location: file:///D:/python-projects/mlops/MLOps--Insurance-Sales-Prediction/insurance_sale/mlruns/389165372678284579
+creation_time: 1752408420609
+experiment_id: '389165372678284579'
+last_update_time: 1752408420609
+lifecycle_stage: active
+name: model training experiment
